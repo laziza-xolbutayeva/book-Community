@@ -349,20 +349,20 @@
 }
 
 .gallery__bg1 {
-  background-image: url("/img/img2.jpg");
+  background: linear-gradient(0deg, rgba(33, 33, 33, 0.4), rgba(33, 33, 33, 0.4)), url("/img/img2.jpg"), #FFFFFF;
   background-position: -40px 0;
   background-size: 480px 340px;
 }
 
 .gallery__bg2 {
   margin: 0 48px;
-  background-image: url("/img/img.jpg");
+  background: linear-gradient(0deg, rgba(33, 33, 33, 0.4), rgba(33, 33, 33, 0.4)), url("/img/img.jpg"), #FFFFFF;
   background-position: -40px 0;
   background-size: 480px 340px;
 }
 
 .gallery__bg3 {
-  background-image: url("/img/img3.jpg");
+  background: linear-gradient(0deg, rgba(33, 33, 33, 0.4), rgba(33, 33, 33, 0.4)), url("/img/img3.jpg"), #FFFFFF;
 }
 
 .sponsor {
